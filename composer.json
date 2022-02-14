@@ -1,0 +1,13 @@
+{
+    "name": "hexlet/code",
+    "description": "php training project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Pechers",
+            "email": "8911102@gmail.com"
+        }
+    ],
+    "require": {}
+}
